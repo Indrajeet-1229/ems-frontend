@@ -9,7 +9,7 @@ import AdminLogin from './components/Auth/AdminLogin';
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Profile from './components/other/Profile';
-import AllUsersData from './components/other/allUsersData';
+import AllUsersData from './components/other/AllUsersData';
 
 const App = () => {
 
